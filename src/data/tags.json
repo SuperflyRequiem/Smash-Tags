@@ -1,0 +1,26 @@
+{
+  "fundimental": {
+    "name": "Fundimentals",
+    "desc": "A character with gameplay that rewards strong fundimental mechanics"
+  },
+  "projectile": {
+    "name": "Projectiles",
+    "desc": "Has a projectile"
+  },
+  "combo": {
+    "name": "Strong combos",
+    "desc": "A character that has high combo potential and requires specific inputs to excel"
+  },
+  "zoner": {
+    "name": "Zoner",
+    "desc": "A character that excels at keeping the opponent at a range to rack up safe damage"
+  },
+  "counter": {
+    "name": "Counter",
+    "desc": "Character has a move that counters melee attacks"
+  },
+  "reflector": {
+    "name": "Reflector",
+    "desc": "Character has a move that reflects ranged attacks"
+  }
+}
