@@ -2,7 +2,7 @@
   "1": {
     "id": "1",
     "name": "Mario",
-    "tags": ["fundimental", "projectile", "combo", "reflector"]
+    "tags": ["fundamental", "projectile", "combo", "reflector"]
   },
   "2": {
     "id": "2",
@@ -32,7 +32,7 @@
   "6": {
     "id": "6",
     "name": "Kirby",
-    "tags": ["fundimental"]
+    "tags": ["fundamental"]
   },
   "7": {
     "id": "7",
@@ -57,7 +57,7 @@
   "11": {
     "id": "11",
     "name": "Captain Falcon",
-    "tags": ["fundimental"]
+    "tags": ["fundamental"]
   },
   "12": {
     "id": "12",
@@ -112,12 +112,12 @@
   "21": {
     "id": "21",
     "name": "Marth",
-    "tags": ["counter", "fundimental"]
+    "tags": ["counter", "fundamental"]
   },
   "21e": {
     "id": "21e",
     "name": "Lucina",
-    "tags": ["counter", "fundimental"]
+    "tags": ["counter", "fundamental"]
   },
   "22": {
     "id": "22",
@@ -157,12 +157,12 @@
   "28": {
     "id": "28",
     "name": "Pit",
-    "tags": ["counter", "reflector", "fundimental"]
+    "tags": ["counter", "reflector", "fundamental"]
   },
   "28e": {
     "id": "28e",
     "name": "Dark Pit",
-    "tags": ["counter", "reflector", "fundimental"]
+    "tags": ["counter", "reflector", "fundamental"]
   },
   "29": {
     "id": "29",
@@ -182,7 +182,7 @@
   "32": {
     "id": "32",
     "name": "Ike",
-    "tags": ["counter", "fundimental"]
+    "tags": ["counter", "fundamental"]
   },
   "33-35": {
     "id": "33-35",
@@ -282,7 +282,7 @@
   "54": {
     "id": "54",
     "name": "Palutena",
-    "tags": ["counter", "reflector", "fundimental"]
+    "tags": ["counter", "reflector", "fundamental"]
   },
   "55": {
     "id": "55",
@@ -297,7 +297,7 @@
   "57": {
     "id": "57",
     "name": "Shulk",
-    "tags": ["counter", "dynamic", "fundimental"]
+    "tags": ["counter", "dynamic", "fundamental"]
   },
   "58": {
     "id": "58",
@@ -322,7 +322,7 @@
   "61": {
     "id": "61",
     "name": "Cloud",
-    "tags": ["fundimental", "comeback"]
+    "tags": ["fundamental", "comeback"]
   },
   "62": {
     "id": "62",
