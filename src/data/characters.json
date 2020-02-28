@@ -7,7 +7,7 @@
   "2": {
     "id": "2",
     "name": "Donkey Kong",
-    "tags": []
+    "tags": ["grab"]
   },
   "3": {
     "id": "3",
@@ -32,7 +32,7 @@
   "6": {
     "id": "6",
     "name": "Kirby",
-    "tags": []
+    "tags": ["fundimental"]
   },
   "7": {
     "id": "7",
@@ -57,7 +57,7 @@
   "11": {
     "id": "11",
     "name": "Captain Falcon",
-    "tags": []
+    "tags": ["fundimental"]
   },
   "12": {
     "id": "12",
@@ -112,12 +112,12 @@
   "21": {
     "id": "21",
     "name": "Marth",
-    "tags": ["counter"]
+    "tags": ["counter", "fundimental"]
   },
   "21e": {
     "id": "21e",
     "name": "Lucina",
-    "tags": ["counter"]
+    "tags": ["counter", "fundimental"]
   },
   "22": {
     "id": "22",
@@ -132,7 +132,7 @@
   "24": {
     "id": "24",
     "name": "Mewtwo",
-    "tags": ["reflector"]
+    "tags": ["reflector", "comeback"]
   },
   "25": {
     "id": "25",
@@ -157,12 +157,12 @@
   "28": {
     "id": "28",
     "name": "Pit",
-    "tags": ["counter", "reflector"]
+    "tags": ["counter", "reflector", "fundimental"]
   },
   "28e": {
     "id": "28e",
     "name": "Dark Pit",
-    "tags": ["counter", "reflector"]
+    "tags": ["counter", "reflector", "fundimental"]
   },
   "29": {
     "id": "29",
@@ -182,12 +182,12 @@
   "32": {
     "id": "32",
     "name": "Ike",
-    "tags": ["counter"]
+    "tags": ["counter", "fundimental"]
   },
   "33-35": {
     "id": "33-35",
     "name": "Pokémon Trainer",
-    "tags": []
+    "tags": ["dynamic"]
   },
   "36": {
     "id": "36",
@@ -217,7 +217,7 @@
   "41": {
     "id": "41",
     "name": "Lucario",
-    "tags": ["counter"]
+    "tags": ["counter", "comeback"]
   },
   "42": {
     "id": "42",
@@ -282,7 +282,7 @@
   "54": {
     "id": "54",
     "name": "Palutena",
-    "tags": ["counter", "reflector"]
+    "tags": ["counter", "reflector", "fundimental"]
   },
   "55": {
     "id": "55",
@@ -297,7 +297,7 @@
   "57": {
     "id": "57",
     "name": "Shulk",
-    "tags": ["counter"]
+    "tags": ["counter", "dynamic", "fundimental"]
   },
   "58": {
     "id": "58",
@@ -322,7 +322,7 @@
   "61": {
     "id": "61",
     "name": "Cloud",
-    "tags": []
+    "tags": ["fundimental", "comeback"]
   },
   "62": {
     "id": "62",
@@ -377,7 +377,7 @@
   "71": {
     "id": "71",
     "name": "Joker",
-    "tags": ["counter", "reflector"]
+    "tags": ["counter", "reflector", "comeback"]
   },
   "72": {
     "id": "72",
@@ -392,7 +392,7 @@
   "74": {
     "id": "74",
     "name": "Terry",
-    "tags": []
+    "tags": ["comeback"]
   },
   "75": {
     "id": "75",

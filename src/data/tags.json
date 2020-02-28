@@ -1,26 +1,54 @@
 {
   "fundimental": {
     "name": "Fundimentals",
-    "desc": "A character with gameplay that rewards strong fundimental mechanics"
+    "desc": "TBA"
   },
-  "projectile": {
-    "name": "Projectiles",
-    "desc": "Has a projectile"
-  },
-  "combo": {
-    "name": "Strong combos",
-    "desc": "A character that has high combo potential and requires specific inputs to excel"
+  "rushdown": {
+    "name": "Rushdown",
+    "desc": "TBA"
   },
   "zoner": {
     "name": "Zoner",
-    "desc": "A character that excels at keeping the opponent at a range to rack up safe damage"
+    "desc": "TBA"
+  },
+  "bait-punish": {
+    "name": "Bait & Punish",
+    "desc": "TBA"
+  },
+  "projectile": {
+    "name": "Projectiles",
+    "desc": "TBA"
+  },
+  "neutral": {
+    "name": "Strong Neutral",
+    "desc": "TBA"
+  },
+  "combo": {
+    "name": "Strong Combo Game",
+    "desc": "TBA"
+  },
+  "grab": {
+    "name": "Strong Grab Game",
+    "desc": "TBA"
+  },
+  "offstage": {
+    "name": "Strong Offstage Game",
+    "desc": "TBA"
   },
   "counter": {
     "name": "Counter",
-    "desc": "Character has a move that counters melee attacks"
+    "desc": "TBA"
   },
   "reflector": {
     "name": "Reflector",
-    "desc": "Character has a move that reflects ranged attacks"
+    "desc": "TBA"
+  },
+  "dynamic": {
+    "name": "Dynamic",
+    "desc": "TBA"
+  },
+  "comeback": {
+    "name": "Comeback Mechanic",
+    "desc": "TBA"
   }
 }
