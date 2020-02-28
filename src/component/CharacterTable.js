@@ -39,7 +39,7 @@ export const CharacterTable = ({ characters, filterTags }) => {
                 key={k}
                 className="bg-blue-300 text-gray-900 border-b-2 border-blue-800 my-1"
               >
-                <td className="px-2">{Math.round(v.match * 100)}%</td>
+                <td className={`px-2 font-bold ${v.match>0.7 ? 'text-green-500' : v.match>0.5 ? 'text-orange-400' : 'text-red-500'}`}>{Math.round(v.match * 100)}%</td>
                 <td className="px-2">{v.id}</td>
                 <td className="px-2">{v.name}</td>
                 <td className="px-2 flex flex-wrap">
