@@ -8,6 +8,7 @@ import characterFile from './data/characters.json';
 import tagFile from './data/tags.json';
 
 function App() {
+  console.log(tagFile);
   const [tags, setTags] = useState([]);
 
   const addTag = tag => {
@@ -29,7 +30,7 @@ function App() {
   return (
     <div className="bg-gray-900 m-0 p-4 min-h-screen">
       <div className="bg-gray-700 p-4 rounded bg-white text-gray-200">
-        <div className="font-bold text-3xl">Smash Tag Search</div>
+        <div className="font-bold text-3xl">Smash Tag Search <span className="text-base">Check out this project on <a className="underline text-blue-300 hover:text-blue-500" href="https://github.com/SuperflyRequiem/Smash-Tags">Github</a></span></div>
         <div className="font-bold text-xl">Choose tags to include</div>
         <div className="flex flex-wrap">
           {_(tagFile)
